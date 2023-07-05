@@ -1,0 +1,2 @@
+- Al realizar el flujo de compra como Guest Checkout no se tiene contratiempos para finalizarlo. 
+- Al realizar el flujo de compra a pesar de informar que no hay stock del producto se carga y puede ser adquirido.
